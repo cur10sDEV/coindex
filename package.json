@@ -2,7 +2,7 @@
   "name": "coindex_cli",
   "version": "1.0.0",
   "description": "cli for crypto prices",
-  "main": "index.js",
+  "main": "coindex.js",
   "bin": "./bin/coindex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "axios": "^0.26.1",
     "colors": "^1.4.0",
     "commander": "^9.0.0",
-    "configstore": "^6.0.0",
+    "configstore": "^3.1.5",
     "inquirer": "^8.2.1"
   }
 }
