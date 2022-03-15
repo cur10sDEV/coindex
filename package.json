@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "cli for crypto prices",
   "main": "index.js",
+  "bin": "./bin/coindex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "cur10sDEV",
   "license": "ISC"
 }
