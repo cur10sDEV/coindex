@@ -1,5 +1,5 @@
 {
-  "name": "coindex_cli",
+  "name": "coindex",
   "version": "1.0.0",
   "description": "cli for crypto prices",
   "main": "coindex.js",
