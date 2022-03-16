@@ -7,6 +7,6 @@
 
 ##### You can search for any coin in any currency unless it is supported by the api.
 
-![[Screenshot](/screenshot.jpg)]
+![Screenshot](/screenshot.jpg)
 
 ### Thanks for Checking out. Enjoy ☺️
